@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    background-image: url("https://media.istockphoto.com/photos/opened-wooden-door-to-modern-living-room-interior-picture-id655290350?k=20&m=655290350&s=612x612&w=0&h=eZh4Ok-gTqBRKXc7klXgdN43PpeUDkxZlbsZuZdOOCU=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
